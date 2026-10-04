@@ -1,7 +1,7 @@
-# WatskeBird classifiers
+# Regional bird classifiers
 
-This directory contains interchangeable bird classifiers for WatskeBird. Each
-model is a trained linear classification layer on top of a fixed BioCLIP image
+This repository contains interchangeable regional bird classifiers. Each model
+is a trained linear classification layer on top of a fixed BioCLIP image
 encoder. The training images are not included.
 
 > **Status: MVP.** These classifiers are initial usable versions intended for
@@ -118,9 +118,9 @@ manifests/nl-500.csv.zip      metadata for 239,862 source photos
 manifests/README.md           field descriptions, checksums, and licensing notes
 ```
 
-Copy a complete model directory into `ModelSets/`; do not combine files from
-different models. WatskeBird verifies the model ID and encoder dimensions when
-loading a classifier.
+Keep each model directory intact; do not combine files from different models.
+Applications loading a classifier should verify its model ID and encoder
+dimensions.
 
 ## Licensing and responsibility
 

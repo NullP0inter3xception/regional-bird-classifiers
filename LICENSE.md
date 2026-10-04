@@ -1,6 +1,6 @@
 # Licence
 
-## WatskeBird classifier artefacts and documentation
+## Regional bird classifier artefacts and documentation
 
 Except for the third-party materials and metadata described below, the original
 classifier artefacts and classifier documentation in `ModelSets/` are licensed

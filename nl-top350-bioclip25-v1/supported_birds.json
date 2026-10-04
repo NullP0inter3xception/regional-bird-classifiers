@@ -1,0 +1,1755 @@
+{
+  "schema_version": 1,
+  "birds": [
+    {
+      "scientific_name": "Apus pallidus",
+      "display_name": "Vale Gierzwaluw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Fringilla spodiogenys",
+      "display_name": "Afrikaanse Vink",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turdus eunomus",
+      "display_name": "Bruine Lijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Streptopelia turtur",
+      "display_name": "Zomertortel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oenanthe seebohmi",
+      "display_name": "Seebohms Tapuit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oenanthe hispanica",
+      "display_name": "Westelijke Blonde Tapuit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Streptopelia orientalis",
+      "display_name": "Oosterse Tortel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oenanthe pleschanka",
+      "display_name": "Bonte Tapuit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Melanocorypha calandra",
+      "display_name": "Kalanderleeuwerik",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oxyura leucocephala",
+      "display_name": "Witkopeend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phoenicopterus chilensis",
+      "display_name": "Chileense Flamingo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Alle alle",
+      "display_name": "Kleine Alk",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Spatula clypeata",
+      "display_name": "Slobeend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Microcarbo pygmaeus",
+      "display_name": "Dwergaalscholver",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Vanellus indicus",
+      "display_name": "Indische Kievit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya fuligula",
+      "display_name": "Kuifeend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya valisineria",
+      "display_name": "Grote Tafeleend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Threskiornis aethiopicus",
+      "display_name": "Heilige Ibis",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Mareca falcata",
+      "display_name": "Bronskopeend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Passer hispaniolensis",
+      "display_name": "Spaanse Mus",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Mareca strepera",
+      "display_name": "Krakeend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oenanthe isabellina",
+      "display_name": "Izabeltapuit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ichthyaetus melanocephalus",
+      "display_name": "Zwartkopmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tadorna tadorna",
+      "display_name": "Bergeend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oxyura jamaicensis",
+      "display_name": "Rosse Stekelstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Saxicola rubetra",
+      "display_name": "Paapje",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Coracias garrulus",
+      "display_name": "Scharrelaar",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus marinus",
+      "display_name": "Grote Mantelmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya ferina",
+      "display_name": "Tafeleend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oenanthe oenanthe",
+      "display_name": "Tapuit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya nyroca",
+      "display_name": "Witoogeend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Motacilla citreola",
+      "display_name": "Citroenkwikstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anas crecca",
+      "display_name": "Wintertaling",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Corvus splendens",
+      "display_name": "Huiskraai",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Zonotrichia albicollis",
+      "display_name": "Witkeelgors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Bucephala albeola",
+      "display_name": "Buffelkopeend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Mareca americana",
+      "display_name": "Amerikaanse Smient",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya americana",
+      "display_name": "Amerikaanse Tafeleend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Spatula querquedula",
+      "display_name": "Zomertaling",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Spatula discors",
+      "display_name": "Blauwvleugeltaling",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Carpodacus erythrinus",
+      "display_name": "Roodmus",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa totanus",
+      "display_name": "Tureluur",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thalasseus sandvicensis",
+      "display_name": "Grote Stern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sturnus unicolor",
+      "display_name": "Zwarte Spreeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lanius minor",
+      "display_name": "Kleine Klapekster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya affinis",
+      "display_name": "Kleine Topper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza spodocephala",
+      "display_name": "Maskergors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Mergus serrator",
+      "display_name": "Middelste Zaagbek",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Fulmarus glacialis",
+      "display_name": "Noordse Stormvogel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya collaris",
+      "display_name": "Ringsnaveleend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Saxicola rubicola",
+      "display_name": "Roodborsttapuit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anas acuta",
+      "display_name": "Pijlstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pastor roseus",
+      "display_name": "Roze Spreeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa glareola",
+      "display_name": "Bosruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardeola ralloides",
+      "display_name": "Ralreiger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthus pratensis",
+      "display_name": "Graspieper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Monticola saxatilis",
+      "display_name": "Rode Rotslijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris mauri",
+      "display_name": "Alaskastrandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Netta rufina",
+      "display_name": "Krooneend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza citrinella",
+      "display_name": "Geelgors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chroicocephalus genei",
+      "display_name": "Dunbekmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Falco naumanni",
+      "display_name": "Kleine Torenvalk",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Leucophaeus atricilla",
+      "display_name": "Lachmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gelochelidon nilotica",
+      "display_name": "Lachstern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Alopochen aegyptiaca",
+      "display_name": "Nijlgans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Himantopus himantopus",
+      "display_name": "Steltkluut",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa stagnatilis",
+      "display_name": "Poelruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Recurvirostra avosetta",
+      "display_name": "Kluut",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gallinago gallinago",
+      "display_name": "Watersnip",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Uria aalge",
+      "display_name": "Zeekoet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Neophron percnopterus",
+      "display_name": "Aasgier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Myiopsitta monachus",
+      "display_name": "Monniksparkiet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Coloeus monedula",
+      "display_name": "Kauw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thalasseus elegans",
+      "display_name": "Sierlijke Stern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Monticola solitarius",
+      "display_name": "Blauwe Rotslijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tachybaptus ruficollis",
+      "display_name": "Dodaars",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza hortulana",
+      "display_name": "Ortolaan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lanius senator",
+      "display_name": "Roodkopklauwier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oenanthe deserti",
+      "display_name": "Woestijntapuit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Buteo rufinus",
+      "display_name": "Arendbuizerd",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turdus torquatus",
+      "display_name": "Beflijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chloris chloris",
+      "display_name": "Groenling",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Prunella modularis",
+      "display_name": "Heggenmus",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardea ibis",
+      "display_name": "Koereiger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cygnus atratus",
+      "display_name": "Zwarte Zwaan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phoenicopterus roseus",
+      "display_name": "Flamingo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pyrrhula pyrrhula",
+      "display_name": "Goudvink",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Passer montanus",
+      "display_name": "Ringmus",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gallinula chloropus",
+      "display_name": "Waterhoen",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Numenius arquata",
+      "display_name": "Wulp",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pluvialis squatarola",
+      "display_name": "Zilverplevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Onychoprion fuscatus",
+      "display_name": "Bonte Stern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Coccyzus americanus",
+      "display_name": "Geelsnavelkoekoek",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tyto alba",
+      "display_name": "Kerkuil",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza schoeniclus",
+      "display_name": "Rietgors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza cia",
+      "display_name": "Grijze Gors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anser indicus",
+      "display_name": "Indische Gans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Mareca penelope",
+      "display_name": "Smient",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Plegadis falcinellus",
+      "display_name": "Zwarte Ibis",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Fulica atra",
+      "display_name": "Meerkoet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Melanitta americana",
+      "display_name": "Amerikaanse Zee-eend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anser anser",
+      "display_name": "Grauwe Gans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Grus virgo",
+      "display_name": "Jufferkraanvogel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa flavipes",
+      "display_name": "Kleine Geelpootruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris himantopus",
+      "display_name": "Steltstrandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Melanitta perspicillata",
+      "display_name": "Brilzee-eend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lanius excubitor",
+      "display_name": "Klapekster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Haematopus ostralegus",
+      "display_name": "Scholekster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turdus philomelos",
+      "display_name": "Zanglijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ciconia nigra",
+      "display_name": "Zwarte Ooievaar",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lanius collurio",
+      "display_name": "Grauwe Klauwier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Branta hutchinsii",
+      "display_name": "Kleine Canadese Gans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Vireo olivaceus",
+      "display_name": "Roodoogvireo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lanius cristatus",
+      "display_name": "Bruine Klauwier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris melanotos",
+      "display_name": "Gestreepte Strandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Columba oenas",
+      "display_name": "Holenduif",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Curruca melanocephala",
+      "display_name": "Kleine Zwartkop",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Caprimulgus europaeus",
+      "display_name": "Nachtzwaluw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Actitis hypoleucos",
+      "display_name": "Oeverloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza calandra",
+      "display_name": "Grauwe Gors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Merops persicus",
+      "display_name": "Groene Bijeneter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Columba palumbus",
+      "display_name": "Houtduif",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa ochropus",
+      "display_name": "Witgat",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Burhinus oedicnemus",
+      "display_name": "Griel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya marila",
+      "display_name": "Topper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Glareola pratincola",
+      "display_name": "Vorkstaartplevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Limosa limosa",
+      "display_name": "Grutto",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chroicocephalus philadelphia",
+      "display_name": "Kleine Kokmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cecropis rufula",
+      "display_name": "Roodstuitzwaluw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa melanoleuca",
+      "display_name": "Grote Geelpootruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Poecile montanus",
+      "display_name": "Matkop",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa erythropus",
+      "display_name": "Zwarte Ruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardea purpurea",
+      "display_name": "Purperreiger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Alca torda",
+      "display_name": "Alk",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ficedula hypoleuca",
+      "display_name": "Bonte Vliegenvanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sitta europaea",
+      "display_name": "Boomklever",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Branta leucopsis",
+      "display_name": "Brandgans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris pusilla",
+      "display_name": "Grijze Strandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pelecanus onocrotalus",
+      "display_name": "Roze Pelikaan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anser serrirostris",
+      "display_name": "Toendrarietgans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chlidonias hybrida",
+      "display_name": "Witwangstern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cepphus grylle",
+      "display_name": "Zwarte Zeekoet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthus trivialis",
+      "display_name": "Boompieper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Somateria mollissima",
+      "display_name": "Eider",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus michahellis",
+      "display_name": "Geelpootmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa nebularia",
+      "display_name": "Groenpootruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phalaropus tricolor",
+      "display_name": "Grote Franjepoot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa brevipes",
+      "display_name": "Siberische Grijze Ruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris temminckii",
+      "display_name": "Temmincks Strandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sylvia atricapilla",
+      "display_name": "Zwartkop",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza pusilla",
+      "display_name": "Dwerggors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turdus iliacus",
+      "display_name": "Koperwiek",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aegypius monachus",
+      "display_name": "Monniksgier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Xenus cinereus",
+      "display_name": "Terekruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Junco hyemalis",
+      "display_name": "Grijze Junco",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thinornis dubius",
+      "display_name": "Kleine Plevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anser albifrons",
+      "display_name": "Kolgans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gavia arctica",
+      "display_name": "Parelduiker",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chlidonias leucopterus",
+      "display_name": "Witvleugelstern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Jynx torquilla",
+      "display_name": "Draaihals",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Uria lomvia",
+      "display_name": "Kortbekzeekoet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Platalea leucorodia",
+      "display_name": "Lepelaar",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ichthyaetus ichthyaetus",
+      "display_name": "Reuzenzwartkopmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aquila nipalensis",
+      "display_name": "Steppearend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pluvialis fulva",
+      "display_name": "Aziatische Goudplevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Charadrius hiaticula",
+      "display_name": "Bontbekplevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris alpina",
+      "display_name": "Bonte Strandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Rissa tridactyla",
+      "display_name": "Drieteenmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris ferruginea",
+      "display_name": "Krombekstrandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Periparus ater",
+      "display_name": "Zwarte Mees",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Picus canus",
+      "display_name": "Grijskopspecht",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus hyperboreus",
+      "display_name": "Grote Burgemeester",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Linaria cannabina",
+      "display_name": "Kneu",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Melanitta nigra",
+      "display_name": "Zwarte Zee-eend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Coccothraustes coccothraustes",
+      "display_name": "Appelvink",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardea cinerea",
+      "display_name": "Blauwe Reiger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Xanthocephalus xanthocephalus",
+      "display_name": "Geelkoptroepiaal",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Muscicapa striata",
+      "display_name": "Grauwe Vliegenvanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calandrella brachydactyla",
+      "display_name": "Kortteenleeuwerik",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Hippolais polyglotta",
+      "display_name": "Orpheusspotvogel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sterna hirundo",
+      "display_name": "Visdief",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pluvialis dominica",
+      "display_name": "Amerikaanse Goudplevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Leucophaeus pipixcan",
+      "display_name": "Franklins Meeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turdus viscivorus",
+      "display_name": "Grote Lijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pelecanus crispus",
+      "display_name": "Kroeskoppelikaan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cairina moschata",
+      "display_name": "Muskuseend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Streptopelia decaocto",
+      "display_name": "Turkse Tortel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Dolichonyx oryzivorus",
+      "display_name": "Bobolink",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Vanellus vanellus",
+      "display_name": "Kievit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus fuscus",
+      "display_name": "Kleine Mantelmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Egretta garzetta",
+      "display_name": "Kleine Zilverreiger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turdus migratorius",
+      "display_name": "Roodborstlijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Icterus galbula",
+      "display_name": "Baltimoretroepiaal",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tadorna ferruginea",
+      "display_name": "Casarca",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Limnodromus scolopaceus",
+      "display_name": "Grote Grijze Snip",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turdus pilaris",
+      "display_name": "Kramsvogel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cyanistes caeruleus",
+      "display_name": "Pimpelmees",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ficedula albicollis",
+      "display_name": "Withalsvliegenvanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Carduelis carduelis",
+      "display_name": "Putter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Troglodytes troglodytes",
+      "display_name": "Winterkoning",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Curruca communis",
+      "display_name": "Grasmus",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Scolopax rusticola",
+      "display_name": "Houtsnip",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris pugnax",
+      "display_name": "Kemphaan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthus petrosus",
+      "display_name": "Oeverpieper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Fringilla coelebs",
+      "display_name": "Vink",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Bucanetes githagineus",
+      "display_name": "Woestijnvink",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Bucephala clangula",
+      "display_name": "Brilduiker",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza cirlus",
+      "display_name": "Cirlgors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Motacilla tschutschensis",
+      "display_name": "Oostelijke Gele Kwikstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthus hodgsoni",
+      "display_name": "Siberische Boompieper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anarhynchus leschenaultii",
+      "display_name": "Woestijnplevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus argentatus",
+      "display_name": "Zilvermeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chroicocephalus ridibundus",
+      "display_name": "Kokmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gulosus aristotelis",
+      "display_name": "Kuifaalscholver",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Mergellus albellus",
+      "display_name": "Nonnetje",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gavia pacifica",
+      "display_name": "Pacifische Parelduiker",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Podiceps nigricollis",
+      "display_name": "Geoorde Fuut",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris minuta",
+      "display_name": "Kleine Strandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sylvia borin",
+      "display_name": "Tuinfluiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oriolus oriolus",
+      "display_name": "Wielewaal",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris bairdii",
+      "display_name": "Bairds Strandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza rustica",
+      "display_name": "Bosgors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sula leucogaster",
+      "display_name": "Bruine Gent",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phoenicurus phoenicurus",
+      "display_name": "Gekraagde Roodstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Parus major",
+      "display_name": "Koolmees",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lanius schach",
+      "display_name": "Langstaartklauwier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus delawarensis",
+      "display_name": "Ringsnavelmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ptyonoprogne rupestris",
+      "display_name": "Rotszwaluw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anarhynchus alexandrinus",
+      "display_name": "Strandplevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthus spinoletta",
+      "display_name": "Waterpieper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turdus atrogularis",
+      "display_name": "Zwartkeellijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Saxicola maurus",
+      "display_name": "Aziatische Roodborsttapuit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Fringilla montifringilla",
+      "display_name": "Keep",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Certhia familiaris",
+      "display_name": "Taigaboomkruiper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phoenicurus ochruros",
+      "display_name": "Zwarte Roodstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Strix aluco",
+      "display_name": "Bosuil",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sterna forsteri",
+      "display_name": "Forsters Stern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Elanus caeruleus",
+      "display_name": "Grijze Wouw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cygnus columbianus",
+      "display_name": "Kleine Zwaan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anser fabalis",
+      "display_name": "Taigarietgans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Alauda arvensis",
+      "display_name": "Veldleeuwerik",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Merops apiaster",
+      "display_name": "Bijeneter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Porphyrio porphyrio",
+      "display_name": "Purperkoet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris ruficollis",
+      "display_name": "Roodkeelstrandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Athene noctua",
+      "display_name": "Steenuil",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Corvus corone",
+      "display_name": "Zwarte Kraai",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa solitaria",
+      "display_name": "Amerikaanse Bosruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Arenaria interpres",
+      "display_name": "Steenloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Podilymbus podiceps",
+      "display_name": "Dikbekfuut",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pluvialis apricaria",
+      "display_name": "Goudplevier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Motacilla cinerea",
+      "display_name": "Grote Gele Kwikstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Histrionicus histrionicus",
+      "display_name": "Harlekijneend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Columba livia",
+      "display_name": "Stadsduif",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phylloscopus inornatus",
+      "display_name": "Bladkoning",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tarsiger cyanurus",
+      "display_name": "Blauwstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Panurus biarmicus",
+      "display_name": "Baardman",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pica pica",
+      "display_name": "Ekster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Motacilla flava",
+      "display_name": "Gele Kwikstaart",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Stercorarius skua",
+      "display_name": "Grote Jager",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardenna gravis",
+      "display_name": "Grote Pijlstormvogel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Passer domesticus",
+      "display_name": "Huismus",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anser caerulescens",
+      "display_name": "Sneeuwgans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Rallus aquaticus",
+      "display_name": "Waterral",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris fuscicollis",
+      "display_name": "Bonapartes Strandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Catharus minimus",
+      "display_name": "Grijswangdwerglijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anser brachyrhynchus",
+      "display_name": "Kleine Rietgans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ichthyaetus audouinii",
+      "display_name": "Audouins Meeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lullula arborea",
+      "display_name": "Boomleeuwerik",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Apus apus",
+      "display_name": "Gierzwaluw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acrocephalus arundinaceus",
+      "display_name": "Grote Karekiet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Upupa epops",
+      "display_name": "Hop",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Numenius phaeopus",
+      "display_name": "Regenwulp",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus canus",
+      "display_name": "Stormmeeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Eremophila alpestris",
+      "display_name": "Strandleeuwerik",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Serinus serinus",
+      "display_name": "Europese Kanarie",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cisticola juncidis",
+      "display_name": "Graszanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phalaropus lobatus",
+      "display_name": "Grauwe Franjepoot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sterna paradisaea",
+      "display_name": "Noordse Stern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Falco vespertinus",
+      "display_name": "Roodpootvalk",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Spinus spinus",
+      "display_name": "Sijs",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anas platyrhynchos",
+      "display_name": "Wilde Eend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris alba",
+      "display_name": "Drieteenstrandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Butorides virescens",
+      "display_name": "Groene Reiger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calcarius lapponicus",
+      "display_name": "IJsgors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lyrurus tetrix",
+      "display_name": "Korhoen",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Loxia curvirostra",
+      "display_name": "Kruisbek",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Luscinia luscinia",
+      "display_name": "Noordse Nachtegaal",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris acuminata",
+      "display_name": "Siberische Strandloper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phylloscopus collybita",
+      "display_name": "Tjiftjaf",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cygnus cygnus",
+      "display_name": "Wilde Zwaan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Botaurus minutus",
+      "display_name": "Woudaap",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Psittacula krameri",
+      "display_name": "Halsbandparkiet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Grus grus",
+      "display_name": "Kraanvogel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chlidonias niger",
+      "display_name": "Zwarte Stern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthus campestris",
+      "display_name": "Duinpieper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Passerina cyanea",
+      "display_name": "Indigogors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lophophanes cristatus",
+      "display_name": "Kuifmees",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Melospiza melodia",
+      "display_name": "Zanggors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tachymarptis melba",
+      "display_name": "Alpengierzwaluw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Falco subbuteo",
+      "display_name": "Boomvalk",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus glaucoides",
+      "display_name": "Kleine Burgemeester",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ficedula parva",
+      "display_name": "Kleine Vliegenvanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aix galericulata",
+      "display_name": "Mandarijneend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acrocephalus schoenobaenus",
+      "display_name": "Rietzanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Podiceps grisegena",
+      "display_name": "Roodhalsfuut",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gavia stellata",
+      "display_name": "Roodkeelduiker",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Branta bernicla",
+      "display_name": "Rotgans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Circus aeruginosus",
+      "display_name": "Bruine Kiekendief",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Quiscalus quiscula",
+      "display_name": "Glanstroepiaal",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Clangula hyemalis",
+      "display_name": "IJseend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lanius borealis",
+      "display_name": "Noordelijke Klapekster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Parkesia noveboracensis",
+      "display_name": "Noordse Waterlijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris tenuirostris",
+      "display_name": "Grote Kanoet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Erithacus rubecula",
+      "display_name": "Roodborst",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Psittacula eupatria",
+      "display_name": "Grote Alexanderparkiet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris canutus",
+      "display_name": "Kanoet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Remiz pendulinus",
+      "display_name": "Buidelmees",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Delichon urbicum",
+      "display_name": "Huiszwaluw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cygnus olor",
+      "display_name": "Knobbelzwaan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anser rossii",
+      "display_name": "Ross' Gans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Mimus polyglottos",
+      "display_name": "Spotlijster",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Bartramia longicauda",
+      "display_name": "Bartrams Ruiter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus cachinnans",
+      "display_name": "Pontische Meeuw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Setophaga striata",
+      "display_name": "Zwartkopzanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Luscinia svecica",
+      "display_name": "Blauwborst",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Branta canadensis",
+      "display_name": "Grote Canadese Gans",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calonectris borealis",
+      "display_name": "Kuhls Pijlstormvogel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Corvus frugilegus",
+      "display_name": "Roek",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Surnia ulula",
+      "display_name": "Sperweruil",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Dendrocopos major",
+      "display_name": "Grote Bonte Specht",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acrocephalus scirpaceus",
+      "display_name": "Kleine Karekiet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Emberiza melanocephala",
+      "display_name": "Zwartkopgors",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Nycticorax nycticorax",
+      "display_name": "Kwak",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Morus bassanus",
+      "display_name": "Jan-van-gent",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phalacrocorax carbo",
+      "display_name": "Aalscholver",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phylloscopus trochiloides",
+      "display_name": "Grauwe Fitis",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Bubo scandiacus",
+      "display_name": "Sneeuwuil",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gyps fulvus",
+      "display_name": "Vale Gier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acanthis flammea",
+      "display_name": "Barmsijs",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cettia cetti",
+      "display_name": "Cetti's Zanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aquila fasciata",
+      "display_name": "Havikarend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Setophaga coronata",
+      "display_name": "Mirtezanger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Nucifraga caryocatactes",
+      "display_name": "Notenkraker",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ciconia ciconia",
+      "display_name": "Ooievaar",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Hydroprogne caspia",
+      "display_name": "Reuzenstern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthus cervinus",
+      "display_name": "Roodkeelpieper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Clanga clanga",
+      "display_name": "Bastaardarend",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Milvus milvus",
+      "display_name": "Rode Wouw",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Loxia leucoptera",
+      "display_name": "Witbandkruisbek",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Hieraaetus pennatus",
+      "display_name": "Dwergarend",
+      "enabled": true
+    }
+  ]
+}

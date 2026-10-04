@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "nl-top100-v2",
+  "display_name": "Netherlands - Top 300",
+  "region": "Netherlands",
+  "version": "2.0",
+  "embedding_model_id": "bioclip-2",
+  "classifier_file": "classifier.json",
+  "supported_birds_file": "supported_birds.json",
+  "zero_shot_file": "species.json"
+}

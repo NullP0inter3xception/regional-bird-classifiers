@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "id": "perth-v1-bioclip25",
+  "display_name": "Perth - 273 species",
+  "region": "AUS",
+  "version": "1.0",
+  "embedding_model_id": "bioclip-2.5",
+  "classifier_file": "classifier.json",
+  "supported_birds_file": "supported_birds.json",
+  "zero_shot_file": "species.json"
+}

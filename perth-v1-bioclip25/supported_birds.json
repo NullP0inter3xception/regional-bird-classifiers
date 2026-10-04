@@ -1,0 +1,1370 @@
+{
+  "schema_version": 1,
+  "birds": [
+    {
+      "scientific_name": "Carduelis carduelis",
+      "display_name": "European Goldfinch",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthus australis",
+      "display_name": "Australian Pipit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Motacilla alba",
+      "display_name": "White Wagtail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Motacilla citreola",
+      "display_name": "Citrine Wagtail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Passer domesticus",
+      "display_name": "House Sparrow",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lonchura castaneothorax",
+      "display_name": "Chestnut-breasted Munia",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Stagonopleura oculata",
+      "display_name": "Red-eared Firetail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Dicaeum hirundinaceum",
+      "display_name": "Mistletoebird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Zosterops lateralis",
+      "display_name": "Silvereye",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Petrochelidon nigricans",
+      "display_name": "Tree Martin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Petrochelidon ariel",
+      "display_name": "Fairy Martin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Hirundo neoxena",
+      "display_name": "Welcome Swallow",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cheramoeca leucosterna",
+      "display_name": "White-backed Swallow",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cincloramphus mathewsi",
+      "display_name": "Rufous Songlark",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cincloramphus cruralis",
+      "display_name": "Brown Songlark",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Poodytes gramineus",
+      "display_name": "Little Grassbird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acrocephalus australis",
+      "display_name": "Australian Reed Warbler",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Eopsaltria georgiana",
+      "display_name": "White-breasted Robin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Eopsaltria griseogularis",
+      "display_name": "Western Yellow Robin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Melanodryas cucullata",
+      "display_name": "Hooded Robin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Microeca fascinans",
+      "display_name": "Jacky-winter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Petroica boodang",
+      "display_name": "Scarlet Robin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Petroica goodenovii",
+      "display_name": "Red-capped Robin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Corvus coronoides",
+      "display_name": "Australian Raven",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Corvus bennetti",
+      "display_name": "Little Crow",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Myiagra inquieta",
+      "display_name": "Restless Flycatcher",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Grallina cyanoleuca",
+      "display_name": "Magpie-lark",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Rhipidura albiscapa",
+      "display_name": "Gray Fantail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Rhipidura leucophrys",
+      "display_name": "Willie-wagtail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Strepera versicolor",
+      "display_name": "Gray Currawong",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gymnorhina tibicen",
+      "display_name": "Australian Magpie",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cracticus nigrogularis",
+      "display_name": "Pied Butcherbird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cracticus torquatus",
+      "display_name": "Gray Butcherbird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Artamus cyanopterus",
+      "display_name": "Dusky Woodswallow",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Artamus cinereus",
+      "display_name": "Black-faced Woodswallow",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Artamus personatus",
+      "display_name": "Masked Woodswallow",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pachycephala rufiventris",
+      "display_name": "Rufous Whistler",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pachycephala pectoralis",
+      "display_name": "Golden Whistler",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Colluricincla harmonica",
+      "display_name": "Gray Shrikethrush",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Psophodes nigrogularis",
+      "display_name": "Western Whipbird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Daphoenositta chrysoptera",
+      "display_name": "Varied Sittella",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lalage tricolor",
+      "display_name": "White-winged Triller",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Coracina novaehollandiae",
+      "display_name": "Black-faced Cuckooshrike",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Coracina maxima",
+      "display_name": "Ground Cuckooshrike",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pomatostomus superciliosus",
+      "display_name": "White-browed Babbler",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gerygone fusca",
+      "display_name": "Western Gerygone",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acanthiza inornata",
+      "display_name": "Western Thornbill",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acanthiza uropygialis",
+      "display_name": "Chestnut-rumped Thornbill",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acanthiza apicalis",
+      "display_name": "Inland Thornbill",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acanthiza chrysorrhoa",
+      "display_name": "Yellow-rumped Thornbill",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sericornis maculatus",
+      "display_name": "Spotted Scrubwren",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Smicrornis brevirostris",
+      "display_name": "Weebill",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pardalotus striatus",
+      "display_name": "Striated Pardalote",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pardalotus punctatus",
+      "display_name": "Spotted Pardalote",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Dasyornis longirostris",
+      "display_name": "Western Bristlebird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Melithreptus brevirostris",
+      "display_name": "Brown-headed Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Melithreptus chloropsis",
+      "display_name": "Gilbert's Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Nesoptilotis leucotis",
+      "display_name": "White-eared Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phylidonyris niger",
+      "display_name": "White-cheeked Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phylidonyris novaehollandiae",
+      "display_name": "New Holland Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lichmera indistincta",
+      "display_name": "Brown Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gliciphila melanops",
+      "display_name": "Tawny-crowned Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Epthianura albifrons",
+      "display_name": "White-fronted Chat",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Epthianura tricolor",
+      "display_name": "Crimson Chat",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ptilotula ornata",
+      "display_name": "Yellow-plumed Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gavicalis virescens",
+      "display_name": "Singing Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthochaera carunculata",
+      "display_name": "Red Wattlebird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anthochaera lunulata",
+      "display_name": "Western Wattlebird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acanthagenys rufogularis",
+      "display_name": "Spiny-cheeked Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Manorina flavigula",
+      "display_name": "Yellow-throated Miner",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Purnella albifrons",
+      "display_name": "White-fronted Honeyeater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Acanthorhynchus superciliosus",
+      "display_name": "Western Spinebill",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Malurus leucopterus",
+      "display_name": "White-winged Fairywren",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Malurus splendens",
+      "display_name": "Splendid Fairywren",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Malurus assimilis",
+      "display_name": "Purple-backed Fairywren",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Malurus pulcherrimus",
+      "display_name": "Blue-breasted Fairywren",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Malurus elegans",
+      "display_name": "Red-winged Fairywren",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Stipiturus malachurus",
+      "display_name": "Southern Emuwren",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Climacteris rufus",
+      "display_name": "Rufous Treecreeper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Trichoglossus moluccanus",
+      "display_name": "Rainbow Lorikeet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Psitteuteles porphyrocephalus",
+      "display_name": "Purple-crowned Lorikeet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Purpureicephalus spurius",
+      "display_name": "Red-capped Parrot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Platycercus icterotis",
+      "display_name": "Western Rosella",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Barnardius zonarius",
+      "display_name": "Australian Ringneck",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Neophema petrophila",
+      "display_name": "Rock Parrot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Neophema elegans",
+      "display_name": "Elegant Parrot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Polytelis anthopeplus",
+      "display_name": "Regent Parrot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cacatua galerita",
+      "display_name": "Sulphur-crested Cockatoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cacatua tenuirostris",
+      "display_name": "Long-billed Corella",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cacatua sanguinea",
+      "display_name": "Little Corella",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cacatua leadbeateri",
+      "display_name": "Pink Cockatoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cacatua pastinator",
+      "display_name": "Western Corella",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Eolophus roseicapilla",
+      "display_name": "Galah",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Nymphicus hollandicus",
+      "display_name": "Cockatiel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calyptorhynchus banksii",
+      "display_name": "Red-tailed Black-Cockatoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Zanda baudinii",
+      "display_name": "Baudin's Black-Cockatoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Zanda latirostris",
+      "display_name": "Carnaby's Black-Cockatoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Falco peregrinus",
+      "display_name": "Peregrine Falcon",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Falco berigora",
+      "display_name": "Brown Falcon",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Falco longipennis",
+      "display_name": "Australian Hobby",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Falco cenchroides",
+      "display_name": "Nankeen Kestrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Todiramphus sanctus",
+      "display_name": "Sacred Kingfisher",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Todiramphus pyrrhopygius",
+      "display_name": "Red-backed Kingfisher",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Dacelo novaeguineae",
+      "display_name": "Laughing Kookaburra",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Merops ornatus",
+      "display_name": "Rainbow Bee-eater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ninox boobook",
+      "display_name": "Australian Boobook",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ninox connivens",
+      "display_name": "Barking Owl",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tyto javanica",
+      "display_name": "Eastern Barn Owl",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tyto novaehollandiae",
+      "display_name": "Australian Masked-Owl",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Icthyophaga leucogaster",
+      "display_name": "White-bellied Sea-Eagle",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Haliastur sphenurus",
+      "display_name": "Whistling Kite",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Circus assimilis",
+      "display_name": "Spotted Harrier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Circus approximans",
+      "display_name": "Swamp Harrier",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tachyspiza fasciata",
+      "display_name": "Brown Goshawk",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tachyspiza cirrocephala",
+      "display_name": "Collared Sparrowhawk",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aquila audax",
+      "display_name": "Wedge-tailed Eagle",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Hieraaetus morphnoides",
+      "display_name": "Little Eagle",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lophoictinia isura",
+      "display_name": "Square-tailed Kite",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Elanus scriptus",
+      "display_name": "Letter-winged Kite",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Elanus axillaris",
+      "display_name": "Black-shouldered Kite",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pandion haliaetus",
+      "display_name": "Osprey",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pelecanus conspicillatus",
+      "display_name": "Australian Pelican",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardea alba",
+      "display_name": "Great Egret",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardea pacifica",
+      "display_name": "Pacific Heron",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardea coromanda",
+      "display_name": "Eastern Cattle-Egret",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Egretta novaehollandiae",
+      "display_name": "White-faced Heron",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Egretta garzetta",
+      "display_name": "Little Egret",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Egretta sacra",
+      "display_name": "Pacific Reef-Heron",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Nycticorax caledonicus",
+      "display_name": "Nankeen Night Heron",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Botaurus dubius",
+      "display_name": "Black-backed Bittern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Botaurus flavicollis",
+      "display_name": "Black Bittern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Botaurus poiciloptilus",
+      "display_name": "Australasian Bittern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Platalea flavipes",
+      "display_name": "Yellow-billed Spoonbill",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Platalea regia",
+      "display_name": "Royal Spoonbill",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Threskiornis spinicollis",
+      "display_name": "Straw-necked Ibis",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Threskiornis molucca",
+      "display_name": "Australian Ibis",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Plegadis falcinellus",
+      "display_name": "Glossy Ibis",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phalacrocorax fuscescens",
+      "display_name": "Black-faced Cormorant",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phalacrocorax varius",
+      "display_name": "Pied Cormorant",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phalacrocorax sulcirostris",
+      "display_name": "Little Black Cormorant",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phalacrocorax carbo",
+      "display_name": "Great Cormorant",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Microcarbo melanoleucos",
+      "display_name": "Little Pied Cormorant",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anhinga novaehollandiae",
+      "display_name": "Australasian Darter",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sula leucogaster",
+      "display_name": "Brown Booby",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Morus serrator",
+      "display_name": "Australasian Gannet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Puffinus assimilis",
+      "display_name": "Little Shearwater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Puffinus huttoni",
+      "display_name": "Hutton's Shearwater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardenna tenuirostris",
+      "display_name": "Short-tailed Shearwater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardenna grisea",
+      "display_name": "Sooty Shearwater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardenna pacifica",
+      "display_name": "Wedge-tailed Shearwater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardenna carneipes",
+      "display_name": "Flesh-footed Shearwater",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Procellaria cinerea",
+      "display_name": "Gray Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pachyptila belcheri",
+      "display_name": "Slender-billed Prion",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pachyptila desolata",
+      "display_name": "Antarctic Prion",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pachyptila salvini",
+      "display_name": "Salvin's Prion",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pterodroma lessonii",
+      "display_name": "White-headed Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pterodroma mollis",
+      "display_name": "Soft-plumaged Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pterodroma macroptera",
+      "display_name": "Great-winged Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Daption capense",
+      "display_name": "Pintado Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Macronectes halli",
+      "display_name": "Northern Giant-Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Macronectes giganteus",
+      "display_name": "Southern Giant-Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pelagodroma marina",
+      "display_name": "White-faced Storm-Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oceanites oceanicus",
+      "display_name": "Wilson's Storm-Petrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thalassarche melanophris",
+      "display_name": "Black-browed Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thalassarche salvini",
+      "display_name": "Salvin's Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thalassarche cauta",
+      "display_name": "White-capped Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thalassarche chrysostoma",
+      "display_name": "Gray-headed Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thalassarche carteri",
+      "display_name": "Indian Yellow-nosed Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phoebetria palpebrata",
+      "display_name": "Light-mantled Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phoebetria fusca",
+      "display_name": "Sooty Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Diomedea exulans",
+      "display_name": "Snowy Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Diomedea sanfordi",
+      "display_name": "Northern Royal Albatross",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Eudyptes pachyrhynchus",
+      "display_name": "Fiordland Penguin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Eudyptula minor",
+      "display_name": "Little Penguin",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phaethon rubricauda",
+      "display_name": "Red-tailed Tropicbird",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Podiceps cristatus",
+      "display_name": "Great Crested Grebe",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Poliocephalus poliocephalus",
+      "display_name": "Hoary-headed Grebe",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tachybaptus novaehollandiae",
+      "display_name": "Australasian Grebe",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thalasseus bergii",
+      "display_name": "Great Crested Tern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sterna dougallii",
+      "display_name": "Roseate Tern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sterna hirundo",
+      "display_name": "Common Tern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sterna paradisaea",
+      "display_name": "Arctic Tern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chlidonias hybrida",
+      "display_name": "Whiskered Tern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Hydroprogne caspia",
+      "display_name": "Caspian Tern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Sternula nereis",
+      "display_name": "Australian Fairy Tern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Onychoprion anaethetus",
+      "display_name": "Bridled Tern",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Larus pacificus",
+      "display_name": "Pacific Gull",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chroicocephalus novaehollandiae",
+      "display_name": "Silver Gull",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Stercorarius antarcticus",
+      "display_name": "Brown Skua",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Stercorarius pomarinus",
+      "display_name": "Pomarine Jaeger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Stercorarius parasiticus",
+      "display_name": "Parasitic Jaeger",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turnix varius",
+      "display_name": "Painted Buttonquail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Turnix velox",
+      "display_name": "Little Buttonquail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris alba",
+      "display_name": "Sanderling",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris ruficollis",
+      "display_name": "Red-necked Stint",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris ferruginea",
+      "display_name": "Curlew Sandpiper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris acuminata",
+      "display_name": "Sharp-tailed Sandpiper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris canutus",
+      "display_name": "Red Knot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Calidris tenuirostris",
+      "display_name": "Great Knot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Arenaria interpres",
+      "display_name": "Ruddy Turnstone",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa nebularia",
+      "display_name": "Common Greenshank",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa glareola",
+      "display_name": "Wood Sandpiper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa stagnatilis",
+      "display_name": "Marsh Sandpiper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tringa brevipes",
+      "display_name": "Gray-tailed Tattler",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Actitis hypoleucos",
+      "display_name": "Common Sandpiper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Xenus cinereus",
+      "display_name": "Terek Sandpiper",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Limosa limosa",
+      "display_name": "Black-tailed Godwit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Limosa lapponica",
+      "display_name": "Bar-tailed Godwit",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Numenius madagascariensis",
+      "display_name": "Far Eastern Curlew",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Numenius phaeopus",
+      "display_name": "Eurasian Whimbrel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Rostratula australis",
+      "display_name": "Australian Painted-Snipe",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anarhynchus ruficapillus",
+      "display_name": "Red-capped Plover",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anarhynchus bicinctus",
+      "display_name": "Double-banded Plover",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anarhynchus leschenaultii",
+      "display_name": "Greater Sand-Plover",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anarhynchus mongolus",
+      "display_name": "Siberian Sand-Plover",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Peltohyas australis",
+      "display_name": "Inland Dotterel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Erythrogonys cinctus",
+      "display_name": "Red-kneed Dotterel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Vanellus tricolor",
+      "display_name": "Banded Lapwing",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thinornis dubius",
+      "display_name": "Little Ringed Plover",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thinornis melanops",
+      "display_name": "Black-fronted Dotterel",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Thinornis cucullatus",
+      "display_name": "Hooded Plover",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pluvialis fulva",
+      "display_name": "Pacific Golden-Plover",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pluvialis squatarola",
+      "display_name": "Black-bellied Plover",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Haematopus fuliginosus",
+      "display_name": "Sooty Oystercatcher",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Haematopus longirostris",
+      "display_name": "Pied Oystercatcher",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Recurvirostra novaehollandiae",
+      "display_name": "Red-necked Avocet",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cladorhynchus leucocephalus",
+      "display_name": "Banded Stilt",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Himantopus leucocephalus",
+      "display_name": "Pied Stilt",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Zapornia tabuensis",
+      "display_name": "Spotless Crake",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Zapornia pusilla",
+      "display_name": "Baillon's Crake",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Porphyrio melanotus",
+      "display_name": "Australasian Swamphen",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Fulica atra",
+      "display_name": "Eurasian Coot",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gallinula tenebrosa",
+      "display_name": "Dusky Moorhen",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Porzana fluminea",
+      "display_name": "Australian Crake",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tribonyx ventralis",
+      "display_name": "Black-tailed Nativehen",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Gallirallus philippensis",
+      "display_name": "Buff-banded Rail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Lewinia pectoralis",
+      "display_name": "Lewin's Rail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Apus pacificus",
+      "display_name": "Pacific Swift",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aegotheles cristatus",
+      "display_name": "Australian Owlet-nightjar",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Podargus strigoides",
+      "display_name": "Tawny Frogmouth",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Eurostopodus argus",
+      "display_name": "Spotted Nightjar",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cacomantis flabelliformis",
+      "display_name": "Fan-tailed Cuckoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Heteroscenes pallidus",
+      "display_name": "Pallid Cuckoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chalcites lucidus",
+      "display_name": "Shining Bronze-Cuckoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chalcites osculans",
+      "display_name": "Black-eared Cuckoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chalcites basalis",
+      "display_name": "Horsfield's Bronze-Cuckoo",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ardeotis australis",
+      "display_name": "Australian Bustard",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Ocyphaps lophotes",
+      "display_name": "Crested Pigeon",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phaps elegans",
+      "display_name": "Brush Bronzewing",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phaps chalcoptera",
+      "display_name": "Common Bronzewing",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Spilopelia senegalensis",
+      "display_name": "Laughing Dove",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Spilopelia chinensis",
+      "display_name": "Spotted Dove",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Columba livia",
+      "display_name": "Rock Pigeon",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Coturnix pectoralis",
+      "display_name": "Stubble Quail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Synoicus ypsilophorus",
+      "display_name": "Brown Quail",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Pavo cristatus",
+      "display_name": "Indian Peafowl",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Phasianus colchicus",
+      "display_name": "Ring-necked Pheasant",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Numida meleagris",
+      "display_name": "Helmeted Guineafowl",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Leipoa ocellata",
+      "display_name": "Malleefowl",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Biziura lobata",
+      "display_name": "Musk Duck",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Oxyura australis",
+      "display_name": "Blue-billed Duck",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Aythya australis",
+      "display_name": "Hardhead",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Malacorhynchus membranaceus",
+      "display_name": "Pink-eared Duck",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anas castanea",
+      "display_name": "Chestnut Teal",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anas gracilis",
+      "display_name": "Gray Teal",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anas platyrhynchos",
+      "display_name": "Mallard",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Anas superciliosa",
+      "display_name": "Pacific Black Duck",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Spatula rhynchotis",
+      "display_name": "Australasian Shoveler",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Chenonetta jubata",
+      "display_name": "Maned Duck",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Tadorna tadornoides",
+      "display_name": "Australian Shelduck",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Cygnus atratus",
+      "display_name": "Black Swan",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Stictonetta naevosa",
+      "display_name": "Freckled Duck",
+      "enabled": true
+    },
+    {
+      "scientific_name": "Dromaius novaehollandiae",
+      "display_name": "Emu",
+      "enabled": true
+    }
+  ]
+}

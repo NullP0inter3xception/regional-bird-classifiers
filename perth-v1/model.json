@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "perth-v1",
+  "display_name": "Perth - V1",
+  "region": "AUS",
+  "version": "1.0",
+  "embedding_model_id": "bioclip-2",
+  "classifier_file": "classifier.json",
+  "supported_birds_file": "supported_birds.json",
+  "zero_shot_file": "species.json"
+}
